@@ -1,5 +1,4 @@
 # Typing-Speed-Tester
-# Typing Speed Tester
 
 ## 📌 Overview
 
